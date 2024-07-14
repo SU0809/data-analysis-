@@ -1,4 +1,4 @@
-# data-analysis-
+SOCIAL MEDIA SENTIMENT ANALYSIS
 Summary
 From the given dataset we were able to predict on which class i.e Positive or Negative does the given tweet fall into.The following data was collected from Analytics Vidhya's site.
 Pre-processing
